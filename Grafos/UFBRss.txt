@@ -1,0 +1,68 @@
+1	Centro-oeste	UnB	Universidade de Brasília
+2	Centro-oeste	UFGD	Universidade Federal da Grande Dourados
+3	Centro-oeste	UFG	Universidade Federal de Goiás
+4	Centro-oeste	UFMT	Universidade Federal de Mato Grosso
+5	Centro-oeste	UFMS	Universidade Federal de Mato Grosso do Sul
+6	Centro-oeste	UFCat	Universidade Federal de Catalão
+7	Centro-oeste	UFJ	Universidade Federal de Jataí
+8	Centro-oeste	UFR	Universidade Federal de Rondonópolis
+9	Nordeste	UFBA	Universidade Federal da Bahia
+10	Nordeste	UFSB	Universidade Federal do Sul da Bahia
+11	Nordeste	UFRB	Universidade Federal do Recôncavo da Bahia
+12	Nordeste	UNILAB	Universidade Federal da Lusofonia Afro-Brasileira
+13	Nordeste	UFPB	Universidade Federal da Paraíba
+14	Nordeste	UFCA	Universidade Federal do Cariri
+15	Nordeste	UFAL	Universidade Federal de Alagoas
+16	Nordeste	UFCG	Universidade Federal de Campina Grande
+17	Nordeste	UFPE	Universidade Federal de Pernambuco
+18	Nordeste	UFS	Universidade Federal de Sergipe
+19	Nordeste	UFC	Universidade Federal do Ceará
+20	Nordeste	UFMA	Universidade Federal do Maranhão
+21	Nordeste	UFOB	Universidade Federal do Oeste da Bahia
+22	Nordeste	UFPI	Universidade Federal do Piauí
+23	Nordeste	UFRN	Universidade Federal do Rio Grande do Norte
+24	Nordeste	UNIVASF	Universidade Federal do Vale do São Francisco
+25	Nordeste	UFRPE	Universidade Federal Rural de Pernambuco
+26	Nordeste	UFERSA	Universidade Federal Rural do Semi-Árido
+27	Norte	UNIR	Universidade Federal de Rondônia
+28	Norte	UFRR	Universidade Federal de Roraima
+29	Norte	UFAC	Universidade Federal do Acre
+30	Norte	UNIFAP	Universidade Federal do Amapá
+31	Norte	UFAM	Universidade Federal do Amazonas
+32	Norte	UFOPA	Universidade Federal do Oeste do Pará
+33	Norte	UFPA	Universidade Federal do Pará
+34	Norte	UFT	Universidade Federal do Tocantins
+35	Norte	UFRA	Universidade Federal Rural da Amazônia
+36	Norte	UNIFESSPA	Universidade Federal do Sul e Sudeste do Pará
+37	Sudeste	UNIFAL-MG	Universidade Federal de Alfenas
+38	Sudeste	UNIFEI	Universidade Federal de Itajubá
+39	Sudeste	UFJF	Universidade Federal de Juiz de Fora
+40	Sudeste	UFLA	Universidade Federal de Lavras
+41	Sudeste	UFMG	Universidade Federal de Minas Gerais
+42	Sudeste	UFOP	Universidade Federal de Ouro Preto
+43	Sudeste	UFSCar	Universidade Federal de São Carlos
+44	Sudeste	UFSJ	Universidade Federal de São João del-Rei
+45	Sudeste	UNIFESP	Universidade Federal de São Paulo
+46	Sudeste	UFU	Universidade Federal de Uberlândia
+47	Sudeste	UFV	Universidade Federal de Viçosa
+48	Sudeste	UFABC	Universidade Federal do ABC
+49	Sudeste	UFES	Universidade Federal do Espírito Santo
+50	Sudeste	UNIRIO	Universidade Federal do Estado do Rio de Janeiro
+51	Sudeste	UFRJ	Universidade Federal do Rio de Janeiro
+52	Sudeste	UFTM	Universidade Federal do Triângulo Mineiro
+53	Sudeste	UFVJM	Universidade Federal dos Vales do Jequitinhonha e Mucuri
+54	Sudeste	UFF	Universidade Federal Fluminense
+55	Sudeste	UFRRJ	Universidade Federal Rural do Rio de Janeiro
+56	Sul	UFFS	Universidade Federal da Fronteira Sul
+57	Sul	UNILA	Universidade Federal da Integração Latino-Americana
+58	Sul	UFCSPA	Universidade Federal de Ciências da Saúde de Porto Alegre
+59	Sul	UFPel	Universidade Federal de Pelotas
+60	Sul	UFSC	Universidade Federal de Santa Catarina
+61	Sul	UFSM	Universidade Federal de Santa Maria
+62	Sul	UNIPAMPA	Universidade Federal do Pampa
+63	Sul	UFPR	Universidade Federal do Paraná
+64	Sul	FURG	Universidade Federal do Rio Grande
+65	Sul	UFRGS	Universidade Federal do Rio Grande do Sul
+66	Sul	UTFPR	Universidade Tecnológica Federal do Paraná
+67	Nordeste	UFAPE	Universidade Federal do Agreste de Pernambuco
+68	Nordeste	UFDPar	Universidade Federal do Delta do Parnaíba

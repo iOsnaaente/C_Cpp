@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1526240123 source:c:\users\bruno\desktop\exercicio5\exe5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Exc.2.h"
+
+1526238498 c:\users\bruno\desktop\exercicio5\exe5\exc.2.h
+	<stdio.h>
+	<stdlib.h>
+
+1526366184 source:c:\users\bruno\desktop\atividades para feriado\exe5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Exc.2.h"
+
+1526363633 c:\users\bruno\desktop\atividades para feriado\exe5\exc.2.h
+	<stdio.h>
+	<stdlib.h>
+
+1526367969 source:c:\users\bruno\desktop\atividades para feriado\problema_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Exc.2.h"
+
+1526363633 c:\users\bruno\desktop\atividades para feriado\problema_5\exc.2.h
+	<stdio.h>
+	<stdlib.h>
+
