@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1512852791 source:c:\users\bruno\desktop\trabalho de conclusão da cadeira\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512852018 source:c:\users\bruno\desktop\trabalho de conclusão da cadeira\diário.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512852754 source:c:\users\bruno\desktop\trabalho de conclusão da cadeira\main - copia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512852808 source:c:\users\bruno\desktop\trabalho de conclusão da cadeira\diário - copia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512852853 source:c:\users\bruno\desktop\trabalho de conclusão da cadeira\fazer_login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512852997 source:c:\users\bruno\desktop\trabalho de conclusão da cadeira\registrar_novou.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512954335 source:c:\users\bruno\desktop\tcc - trabalho de conclusão de cadeira\fazer_login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512959275 source:c:\users\bruno\desktop\tcc - trabalho de conclusão de cadeira\registrar_novou.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512954856 source:c:\users\bruno\desktop\tcc - trabalho de conclusão de cadeira\diário - copia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1512959015 source:c:\users\bruno\desktop\tcc - trabalho de conclusão de cadeira\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1512953781 source:c:\users\bruno\desktop\tcc - trabalho de conclusão de cadeira\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512954856 source:c:\users\bruno\desktop\tcc - trabalho de conclusão de cadeira\apagar_pagina.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512954856 source:c:\users\bruno\desktop\eng. controle e automação\tcc - trabalho de conclusão de cadeira\apagar_pagina.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512954856 source:c:\users\bruno\desktop\eng. controle e automação\tcc - trabalho de conclusão de cadeira\diário - copia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1512954335 source:c:\users\bruno\desktop\eng. controle e automação\tcc - trabalho de conclusão de cadeira\fazer_login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512959015 source:c:\users\bruno\desktop\eng. controle e automação\tcc - trabalho de conclusão de cadeira\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1512959660 source:c:\users\bruno\desktop\eng. controle e automação\tcc - trabalho de conclusão de cadeira\registrar_novou.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512953781 source:c:\users\bruno\desktop\eng. controle e automação\tcc - trabalho de conclusão de cadeira\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512951256 source:c:\users\bruno\desktop\eng. controle e automação\algoritimos e programação\tcc - trabalho de conclusão de cadeira\apagar_pagina.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512951256 source:c:\users\bruno\desktop\eng. controle e automação\algoritimos e programação\tcc - trabalho de conclusão de cadeira\diário - copia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1512950735 source:c:\users\bruno\desktop\eng. controle e automação\algoritimos e programação\tcc - trabalho de conclusão de cadeira\fazer_login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512955415 source:c:\users\bruno\desktop\eng. controle e automação\algoritimos e programação\tcc - trabalho de conclusão de cadeira\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1512956060 source:c:\users\bruno\desktop\eng. controle e automação\algoritimos e programação\tcc - trabalho de conclusão de cadeira\registrar_novou.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512950181 source:c:\users\bruno\desktop\eng. controle e automação\algoritimos e programação\tcc - trabalho de conclusão de cadeira\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512951256 source:c:\users\bruno\desktop\eng. controle e automação\1ºsem\algoritimos e programação\tcc - trabalho de conclusão de cadeira\apagar_pagina.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512951256 source:c:\users\bruno\desktop\eng. controle e automação\1ºsem\algoritimos e programação\tcc - trabalho de conclusão de cadeira\diário - copia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1512950735 source:c:\users\bruno\desktop\eng. controle e automação\1ºsem\algoritimos e programação\tcc - trabalho de conclusão de cadeira\fazer_login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512955415 source:c:\users\bruno\desktop\eng. controle e automação\1ºsem\algoritimos e programação\tcc - trabalho de conclusão de cadeira\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1585280338 source:c:\users\bruno\desktop\eng. controle e automação\1ºsem\algoritimos e programação\tcc - trabalho de conclusão de cadeira\registrar_novou.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1512950181 source:c:\users\bruno\desktop\eng. controle e automação\1ºsem\algoritimos e programação\tcc - trabalho de conclusão de cadeira\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
